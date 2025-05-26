@@ -16,6 +16,9 @@ public class Desktop extends Computer {
 		  
 		  d.desktopsize();
 		  d.computermodel();
+		// file get comitted to git
+		  System.out.println("File comitted to git");
+		  
 		
 	}
 
